@@ -1,0 +1,16 @@
+artifact_uri: mlruns/1/1412092d1eac477bb7203e48cee619ba/artifacts
+deleted_time: 1661208208420
+end_time: 1661207571993
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+name: ''
+run_id: 1412092d1eac477bb7203e48cee619ba
+run_uuid: 1412092d1eac477bb7203e48cee619ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1661207568564
+status: 4
+tags: []
+user_id: xavier

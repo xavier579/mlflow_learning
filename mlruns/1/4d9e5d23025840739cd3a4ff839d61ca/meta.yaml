@@ -1,0 +1,15 @@
+artifact_uri: mlruns/1/4d9e5d23025840739cd3a4ff839d61ca/artifacts
+end_time: 1661208219252
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 4d9e5d23025840739cd3a4ff839d61ca
+run_uuid: 4d9e5d23025840739cd3a4ff839d61ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1661208215839
+status: 3
+tags: []
+user_id: xavier
